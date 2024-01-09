@@ -1,38 +1,11 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Desafio 1 - Capítulo III da trilha Node.js 2021 da Rocketseat 🚀
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+Bem-vindo ao meu projeto do Desafios 1 do curso Node.js da Rocketseat!
 
+Neste projeto, eu desenvolvi todo o código de ORM para que os testes completassem com sucesso.
 
-## 💻 Projeto
+## Como executar os testes automatizados
 
-ignite-template-database-queries
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+1. Clone este repositório.
+2. Instale as dependências usando `npm install`.
+3. Execute o servidor local com `npm test`.
